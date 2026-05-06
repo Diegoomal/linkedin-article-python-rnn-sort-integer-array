@@ -8,21 +8,9 @@ Exemplo de treino e predição utilizando python 3.10 com a bilbioteca TensorFlo
 
 ``` conda env create -n rnn-env -f ./env.yml ```
 
-### Update environment
-
-``` conda env update -n rnn-env -f ./env.yml ```
-
-### Remove environment
-
-``` conda env remove --n rnn-env ```
-
 ### Activate environment
 
 ``` conda activate rnn-env ```
-
-### Deactivate environment
-
-``` conda deactivate ```
 
 ## Run Project
 
